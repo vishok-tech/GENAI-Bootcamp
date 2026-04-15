@@ -1,7 +1,7 @@
 # Day 2 - Document Loading, Chunking & Metadata Filtering
 
-## 📌 Overview
-This project focuses on processing PDF documents using LangChain by loading, splitting, enriching with metadata, and filtering chunks based on specific conditions.
+## Overview
+This Task focuses on processing PDF documents using LangChain by loading, splitting, enriching with metadata, and filtering chunks based on specific conditions.
 
 ---
 
@@ -27,9 +27,6 @@ Each chunk is enriched with:
 ### 4. Filter Function
 Implemented a flexible filtering function:
 
-```python
-filter_chunks(chunks, **filters)
-
 
 5. Testing
 
@@ -40,7 +37,7 @@ Filtering by page number
 Filtering by source type
 Handling edge cases (no results)
 
-🛠️ Tech Stack
+### Tech Stack
 
 Python
 LangChain
@@ -51,3 +48,11 @@ How to Run
 
 pip install langchain langchain-community
 python day2_document_loader.py
+
+```python
+
+
+
+
+
+
