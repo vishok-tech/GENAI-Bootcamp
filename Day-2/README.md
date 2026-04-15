@@ -48,7 +48,7 @@ How to Run
 
 pip install langchain langchain-community
 
-python day2_document_loader.py
+python document_loader.py
 
 ```python
 
