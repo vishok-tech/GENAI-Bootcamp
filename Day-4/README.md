@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project implements a fully functional AI Agent with Tool Calling using **LangChain**, **Ollama (llama3.2:3b)**, **Tavily Search**, and **LangGraph**. The agent dynamically decides which tool to invoke, executes it, processes the result, and loops until it produces a final answer.
+This task implements a functional AI Agent with Tool Calling using **LangChain**, **Ollama (llama3.2:3b)**, **Tavily Search**, and **LangGraph**. The agent dynamically decides which tool to invoke, executes it, processes the result, and loops until it produces a final answer.
 
 ---
 
