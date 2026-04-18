@@ -6,17 +6,8 @@ Built as the **Day 5 Capstone Project** for the Nunnari Academy Generative AI & 
 
 ---
 
-## ✨ Features
 
-| Feature | Day Concept | Description |
-|---|---|---|
-| PDF Upload & Processing | Day 2 | PyPDFLoader + RecursiveCharacterTextSplitter with metadata |
-| RAG with Metadata Filtering | Day 3 | ChromaDB vector search filtered by selected documents |
-| ReAct Agent with Tools | Day 4 | Document search, web search, and save-note tools |
-| LangGraph Workflow | Day 5 | Intent classification → retrieval → response → save |
-| 3-Panel UI | Day 1 | Sidebar + Chat + Notes panel |
 
----
 
 ## 🏗️ Architecture
 
